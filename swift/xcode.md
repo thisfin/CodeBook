@@ -11,5 +11,3 @@ rm -rf ~/Library/Caches/com.apple.dt.Xcode
 
 ---
 
-
-
