@@ -1,7 +1,6 @@
 # 代码提示失效
 
-dfsds 
-sdf
+执行以下命令
 
 ``
 rm -rf ~/Library/Developer/Xcode/DerivedData/[project_name]
