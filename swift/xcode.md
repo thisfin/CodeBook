@@ -6,7 +6,7 @@
 
 ```
 rm -rf ~/Library/Developer/Xcode/DerivedData/[project_name]  
-rm -rf ~/Library/Caches/com.apple.dt.Xcode`
+rm -rf ~/Library/Caches/com.apple.dt.Xcode
 ```
 
 ---
