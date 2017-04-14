@@ -32,7 +32,6 @@ textView.layoutManager?.typesetter = WYTypesetter()
 建立 NSTextView 的扩展
 
 ```
-
 import Cocoa
 
 extension NSTextView {
