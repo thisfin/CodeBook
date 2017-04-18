@@ -7,5 +7,5 @@
 * [Xcode](Xcode.md)
 * [Cocoa](Cocoa.md)
   * [NSRegularExpression](Cocoa/NSRegularExpression.md)
-  * [NSTextView](cocoa/NSTextView.md)
+  * [NSTextView](Cocoa/NSTextView.md)
 * [Go](Go.md)
