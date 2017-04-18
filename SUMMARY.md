@@ -6,6 +6,6 @@
 * [Swift](swift.md)
 * [Xcode](xcode.md)
 * [Cocoa](cocoa.md)
-  * [NSRegularExpression](NSRegularExpression.md)
+  * [NSRegularExpression](cocoa/NSRegularExpression.md)
   * [NSTextView](cocoa/nstextview.md)
 * [Go](go.md)
