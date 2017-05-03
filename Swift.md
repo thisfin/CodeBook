@@ -19,5 +19,9 @@ class SingletonTest: NSObject {
     public static var sharedInstance: SingletonTest {
         return selfInstance
     }
+
+    override private init() {
+        super.init()
+    }
 }
 ```
